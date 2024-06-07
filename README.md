@@ -1,8 +1,8 @@
-### Hey, I'm Olivia! 👋 
+## Hey, I'm Olivia! 👋 
 
 A results-driven Full Stack Software Engineer leveraging keen software insights to design, develop and bring to life scalable, user driven applications.
 
-## Toolbox 📦
+### Toolbox 📦
 
 **Frontend Development:** `React` `Next.js` `CSS` `Tailwind` `Material-UI` `Three.js` `d3` `HTML` `JavaScript`
  
@@ -14,12 +14,12 @@ A results-driven Full Stack Software Engineer leveraging keen software insights 
 
 **Others:** `Figma` `Confluence` `Jira`
  
-## Fun Facts ✨
+### Fun Facts ✨
 
 - I love using front end technologies to bring data visualizations to life.
 - I'm currently learning Machine Learning.
 - When I'm not coding, you can find me reading or rollerskating.
 
-## Contact 📫 
+### Contact 📫 
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/oliviawilcox007/). 
