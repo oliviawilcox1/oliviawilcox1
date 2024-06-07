@@ -1,10 +1,10 @@
 ### Hey, I'm Olivia! 👋 
 
-A Full Stack Engineer combining passion for new technology and an internal drive to learn to solve nuanced real-world problems.
+A results-driven Full Stack Software Engineer leveraging keen software insights to design, develop and bring to life scalable, user driven applications.
 
 ## Toolbox 📦
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Three.js` `d3`
+**Frontend Development:** `React` `Next.js` `CSS` `Tailwind` `Material-UI` `Three.js` `d3` `HTML` `JavaScript`
  
 **Version Control:** `Git` `GitLab`
 
@@ -22,4 +22,4 @@ A Full Stack Engineer combining passion for new technology and an internal drive
 
 ## Contact 📫 
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/oliviawilcox007/). 
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/oliviawilcox007/). 
