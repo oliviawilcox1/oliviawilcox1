@@ -1,6 +1,6 @@
 ## Hey, I'm Olivia! 👋 
 
-A results-driven Full Stack Software Engineer leveraging keen software insights to design, develop and bring to life scalable, user driven applications.
+A results-driven Full Stack Software Engineer leveraging keen software insights to design, develop, and bring to life scalable, user driven applications.
 
 ## Toolbox 📦
 
