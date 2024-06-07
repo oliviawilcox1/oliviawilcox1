@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey, I'm Olivia! 👋 
 
-<!--
-**oliviawilcox1/oliviawilcox1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full Stack Engineer combining passion for new technology and an internal drive to learn to solve nuanced real-world problems.
 
-Here are some ideas to get you started:
+## Toolbox 📦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Three.js` `d3`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Backend Development:** `AWS` `DynamoDB` `MongoDB` `Node.js` `Express` `Python`
+
+**Testing:** `Jest` `Postman` `DataDog`
+
+**Others:** `Figma` `Confluence` `Jira`
+ 
+## Fun Facts ✨
+
+- I love using front end technologies to bring data visualizations to life.
+- I'm currently learning Machine Learning.
+- When I'm not coding, you can find me reading or rollerskating.
+
+## Contact 📫 
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/oliviawilcox007/). 
